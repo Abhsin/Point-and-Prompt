@@ -1,0 +1,12 @@
+pynput
+Pillow
+mss
+google-generativeai
+python-dotenv
+# For OCR, pytesseract is a common choice, but requires Tesseract engine installation
+pytesseract
+# For a potentially nicer UI than standard tkinter
+# customtkinter
+customtkinter
+pywinauto
+opencv-python 
